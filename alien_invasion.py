@@ -11,11 +11,7 @@ from thano import Thano
 import game_functions as gf
 
 
-<<<<<<< HEAD
 # ------------------各种物件的速度 大小 灭霸 随机分布
-=======
-#------------------各种物件的速度 大小 灭霸 随机分布
->>>>>>> origin/master
 
 
 def run_game():  # 初始化pygame、设置和屏幕对象

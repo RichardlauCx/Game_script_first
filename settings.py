@@ -7,8 +7,8 @@ class Settings():  # 存储外星人入侵项目所有设置的类
         self.bg_color = (230, 230, 230)
         self.ship_limit = 3  # 飞船数量
 
-        self.bullet_width = 999    # 9
-        self.bullet_width = 666    #6
+        self.bullet_width = 9    # 9
+        self.bullet_width = 6    # 6
         self.bullet_height = 15
         self.bullet_color = 99, 99, 99
         self.bullets_allowed = 6
