@@ -1,4 +1,9 @@
-#coding=utf-8
+# -*- coding: utf-8 -*-
+#  @ Date   : 2019/5/20 13:14
+#  @ Author : RichardLau_Cx
+#  @ file   : Richard.py
+#  @ IDE    : Pycharm
+
 class GameStats():  # 跟踪游戏的统计信息
     def __init__(self, first_settings):  # 初始化统计信息
         self.first_settings = first_settings
